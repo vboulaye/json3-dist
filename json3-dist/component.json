@@ -1,0 +1,6 @@
+{
+  "name": "json3",
+  "version": "3.2.4",
+  "main": "./json3.min.js",
+  "dependencies": {}
+}
